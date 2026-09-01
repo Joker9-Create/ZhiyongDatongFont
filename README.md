@@ -1,41 +1,50 @@
-# 智勇大同体 Zhiyong Datong
+Plain Text
+# 智勇大同体 Zhiyong Datong Font
 
-一款免费可商用的手写书法字体，作者：贾智勇（Jia Zhiyong）。
+一款 **完全开源、免费商用、可修改、可衍生、可软件嵌入** 的手写书法中文字体
+授权协议与 **思源黑体 Source Han Sans 完全一致（SIL OFL-1.1）**
 
-A free-for-commercial-use handwritten calligraphy font by Jia Zhiyong.
+## 字体信息
+- 字体名称：智勇大同体 / Zhiyong Datong
+- 字体类型：手写书法中文开源字体
+- 当前版本：v1.0
+- 原创作者：贾智勇（Jia Zhiyong）
+- 作者主页：https://www.zcool.com.cn/u/1525063
+- 开源协议：**SIL Open Font License 1.1 (OFL-1.1)**
 
-## 字体简介 / About
+## 开源授权说明（与思源黑体一致）
+本字体为 **完全开源字体**，遵循标准 OFL-1.1 协议，允许个人、团队、企业免费商用及二次开发。
 
-- 名称 / Name：智勇大同体（Zhiyong Datong）
-- 类型 / Type：手写书法字型 / Handwritten calligraphy font
-- 版本 / Version：1.0
-- 作者 / Author：贾智勇 / Jia Zhiyong
-- 作者主页 / Author page：https://www.zcool.com.cn/u/1525063
+### ✅ 完全允许
+- 免费个人使用、免费企业商用
+- 用于海报、印刷、视频、电商、文创、品牌视觉等任意设计场景
+- **嵌入网站、小程序、APP、客户端、游戏、软件程序**
+- **修改字形、调整字重、优化细节、二次开发**
+- **制作衍生字体并公开发布、分发**
+- 随软件、项目、产品打包分发与商业售卖
 
-## 授权 / License
+### ❌ 唯一限制（OFL 官方强制规则）
+1. 禁止 **单独售卖本字体文件本身**
+2. 修改后的衍生字体 **禁止继续使用「智勇大同体 / Zhiyong Datong」原名**（必须改名发布）
+3. 衍生作品必须沿用 **OFL-1.1 协议开源**，不可闭源重新授权
 
-本字体以 **SIL Open Font License 1.1（OFL-1.1）** 授权发布，与思源黑体（Source Han Sans）相同的授权方式。详见 [LICENSE.txt](LICENSE.txt)。
+## 安装使用
+### Windows
+右键 `ZhiyongDatongFont.ttf` → 安装
 
-This font is released under the **SIL Open Font License 1.1 (OFL-1.1)**, the same license as Source Han Sans. See [LICENSE.txt](LICENSE.txt) for details.
+### macOS
+双击 `ZhiyongDatongFont.ttf` → 安装字体
 
-### 授权要点 / Key points
+### 网页 / 前端 / 软件开发
+支持 `@font-face` 网页嵌入、软件内嵌、客户端打包使用，无商用限制。
 
-- ✅ 可以免费商用、嵌入、二次开发 / Free for commercial use, embedding and derivative works
-- ✅ 可以修改并再分发（需保持 OFL-1.1 授权）/ Modify and redistribute under OFL-1.1
-- ❌ 不得单独出售字体文件本身 / The font software itself may not be sold by itself
-- ❌ 衍生作品不得使用保留字体名「智勇大同体 / Zhiyong Datong」/ Derivative works may not use the Reserved Font Name "智勇大同体 / Zhiyong Datong"
+## 下载
+直接下载本仓库 `ZhiyongDatongFont.ttf` 使用即可。
 
-## 安装 / Installation
+## 反馈与共建
+欢迎提交 Issue、PR 参与字体优化与迭代。
 
-- Windows：右键点击 `ZhiyongDatongFont.ttf` → 安装
-- macOS：双击 `ZhiyongDatongFont.ttf` → 点击「安装字体」
-- 网页 / Web：使用 `@font-face` 引入该字体文件
-
-## 下载 / Download
-
-点击仓库中的 [ZhiyongDatongFont.ttf](ZhiyongDatongFont.ttf) 即可下载。
-
-## 反馈 / Feedback
-
-如有问题或建议，欢迎通过 GitHub Issues 反馈。
-For issues or suggestions, please open a GitHub Issue.
+## 版权与协议
+Copyright (c) 贾智勇
+Released under the **SIL Open Font License 1.1**
+See LICENSE.txt for full details.
